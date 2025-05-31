@@ -99,11 +99,6 @@ class Message extends Equatable {
 │   │   └── main.dart           # Point d'entrée
 │   ├── test/                   # Tests unitaires
 │   └── pubspec.yaml            # Dépendances Flutter
-├── rapport/                    # Rapport LaTeX
-│   ├── rapport_flutter_chat.tex # Rapport principal
-│   ├── images/                 # Captures d'écran
-│   ├── diagrams/               # Diagrammes TikZ
-│   └── scripts/                # Scripts de compilation
 └── README.md                   # Ce fichier
 ```
 
